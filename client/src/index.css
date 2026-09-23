@@ -1,0 +1,5 @@
+:root { font-family: Georgia, 'Times New Roman', serif; color: #25231f; background: #e8e4da; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+button, input, select { font: inherit; }
+button { cursor: pointer; }
